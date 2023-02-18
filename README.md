@@ -12,7 +12,7 @@ its simply my local study code folder/repo into the internet.
 
 ## license
 
-i have know nothing about any of licence. so if something is wrong please notify me. but i believe any reachable materials from the internet can be use any of from anyone. those concepts also differ from country by country or regions. so when i was a kid this didnt teached to me from any school which i graduated.
+i have know nothing about any of licence. so if something is wrong please notify me. I believe that any material available on the Internet can be used by everyone. those concepts also differ from country by country or regions. so when i was a kid this didnt teached to me from any school which i graduated.
 
 ## acknowledgement
 
