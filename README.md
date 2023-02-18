@@ -10,6 +10,10 @@ its simply my local study code folder/repo into the internet.
 
 **right now i more interest about upload my code instead of focusing getting started doc or readme documentation vice versa. so if you found this readme little bit of confusing or detect any of misinformation. its ok. this doc not completed yet.**
 
+## license
+
+i have know nothing about any of licence. so if something is wrong please notify me. but i believe any reachable materials from the internet can be use any of from anyone. those concepts also differ from country by country or regions. so when i was a kid this didnt teached to me from any school which i graduated.
+
 # intro
 
 *[skip-this-section](#table-of-contents)*
