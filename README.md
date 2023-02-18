@@ -14,11 +14,15 @@ its simply my local study code folder/repo into the internet.
 
 i have know nothing about any of licence. so if something is wrong please notify me. but i believe any reachable materials from the internet can be use any of from anyone. those concepts also differ from country by country or regions. so when i was a kid this didnt teached to me from any school which i graduated.
 
+## acknowledgement of debt
+
+...
+
 # intro
 
 *[skip-this-section](#table-of-contents)*
 
-hello, im baus. this repo kinda docs or intro for programming experience what im currently interest about computer science and what i studied, searched or coded since when i start learning programing.
+hello, im `baus`. this repo kinda docs or intro for programming experience what im currently interest about computer science and what i studied, searched or coded since when i start learning programing.
 
 Some of those topics are my most loving programming languages, terminal, general concepts of computing in compsci, math, data science, web development, python development, game development, C/C++, ios app development etc…
 
