@@ -47,26 +47,5 @@ im selfthaught programmer. Has no mentor, These are my searching results, tutori
 - Unity C#
 - SQL
 
-# organize
-
 ..
-
-# plan
-
-..
-
-# start
-
-..
-
-# study
-
-..
-
-# project
-
-..
-
-# iş
-
 
