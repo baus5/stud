@@ -16,6 +16,11 @@ its simply my local study code folder/repo into the internet.
 
 hello, im baus. this repo kinda docs or intro for programming experience what im currently interest about computer science and what i studied, searched or coded since when i start learning programing.
 
+Some of those topics are my most loving programming languages, terminal, general concepts of computing in compsci, math, data science, web development, python development, game development, C/C++, ios app development etc…
+
+also this is not a showcase of my portfolio, or complete beginner friendly tutorial for who want to learn coding.
+
+im selfthaught programmer. Has no mentor, These are my searching results, tutorials and docs reached by me from all around the internet when i decided to learn coding. i never created or publish all subcontent on this repo. these are mostly free internet resources whose their creator published this for a some reason.
 # Table-of-Contents
 
 - Python
