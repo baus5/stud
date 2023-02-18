@@ -16,7 +16,10 @@ i have know nothing about any of licence. so if something is wrong please notify
 
 ## acknowledgement
 
-...
+![](https://github.com/baus5/stud/blob/main/alliance.GIF)
+*For the alliance*
+
+.Everything I take from it comes back to the internet again...
 
 # intro
 
