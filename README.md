@@ -27,7 +27,7 @@ i have know nothing about any of licence. so if something is wrong please notify
 
 hello, im `baus`. this repo kinda docs or intro for programming experience what im currently interest about computer science and what i studied, searched or coded since when i start learning programing.
 
-Some of those topics are my most loving programming languages, terminal, general concepts of computing in compsci, math, data science, web development, python development, game development, C/C++, ios app development etc…
+Some of those topics are my most loving programming languages, terminal, the internet, general concepts of computing in compsci, math, data science, web development, python development, game development, C/C++, ios app development etc…
 
 also this is not a showcase of my portfolio, or complete beginner friendly tutorial for who want to learn coding.
 
