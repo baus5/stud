@@ -15,3 +15,17 @@ its simply my local study code folder/repo into the internet.
 *[skip-this-section]()*
 
 hello, im baus. this repo kinda docs or intro for programming experience what im currently interest about computer science and what i studied, searched or coded since when i start learning programing.
+
+# Table-of-Contents
+
+- Python
+- Data Science
+- JavaScript
+- nodejs
+- React
+- Html/Css
+- Bootstrap
+- React
+- Swift
+- Unity C#
+- SQL
