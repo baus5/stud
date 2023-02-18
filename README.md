@@ -32,6 +32,7 @@ Some of those topics are my most loving programming languages, terminal, the int
 also this is not a showcase of my portfolio, or complete beginner friendly tutorial for who want to learn coding.
 
 im selfthaught programmer. Has no mentor, These are my searching results, tutorials and docs reached by me from all around the internet when i decided to learn coding. i never created or publish all subcontent on this repo. these are mostly free internet resources whose their creator published this for a some reason.
+
 # Table-of-Contents
 
 - Python
@@ -45,3 +46,27 @@ im selfthaught programmer. Has no mentor, These are my searching results, tutori
 - Swift
 - Unity C#
 - SQL
+
+# organize
+
+..
+
+# plan
+
+..
+
+# start
+
+..
+
+# study
+
+..
+
+# project
+
+..
+
+# iş
+
+
