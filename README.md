@@ -12,7 +12,7 @@ its simply my local study code folder/repo into the internet.
 
 # intro
 
-*[skip-this-section]()*
+*[skip-this-section](#table-of-contents)*
 
 hello, im baus. this repo kinda docs or intro for programming experience what im currently interest about computer science and what i studied, searched or coded since when i start learning programing.
 
