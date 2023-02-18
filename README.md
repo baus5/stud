@@ -19,7 +19,7 @@ i have know nothing about any of licence. so if something is wrong please notify
 ![](https://github.com/baus5/stud/blob/main/alliance.GIF)
 [*For the alliance*](https://media2.giphy.com/media/BMfO1VW3khCEsqEvcg/giphy.gif?cid=2154d3d7hmig6uebuflveot91e14avibd3q1fe8xfuyz8l5l&rid=giphy.gif&ct=g)
 
-.Everything I take from it comes back to the internet again...
+.Everything I take from it comes back to `the internet` again...
 
 # intro
 
